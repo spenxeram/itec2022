@@ -15,7 +15,7 @@
 <body class="">
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">    
-    <a class="navbar-brand" href="<?= ROOT?>"> <i class="fa fa-book" aria-hidden="true"></i> ITEC Blog</a>
+    <a class="navbar-brand" href="<?= ROOT?>"> <i class="fa fa-book" aria-hidden="true"></i> ITEC MVC Blog</a>
         <button class="navbar-toggler" data-target="#my-nav" data-toggle="collapse" aria-controls="my-nav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
