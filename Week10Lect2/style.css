@@ -1,0 +1,27 @@
+h1, h2, h3, h4, button, .navbar-brand, .btn {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+}
+
+p, ul li, table, form {
+  font-family: 'Raleway', sans-serif;
+}
+
+.hero {
+    background-image: url('images/background1.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+img.card-img-top {
+    height: 35vh;
+    object-fit: cover;
+}
+
+.banner2 {
+    background: url('images/btc.jpg');
+    height: 65vh;
+    background-attachment: fixed;
+    background-position: center;
+}
